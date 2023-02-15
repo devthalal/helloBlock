@@ -1,0 +1,9 @@
+{
+  "name": "helloBlock",
+  "type": "appBlock",
+  "blockId": "EeELb7hv6MeqwajEDYlvO",
+  "source": {
+    "https": "https://github.com/devthalal/helloBlock",
+    "ssh": "git@github.com:devthalal/helloBlock.git"
+  }
+}
